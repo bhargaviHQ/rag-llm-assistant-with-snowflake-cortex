@@ -20,16 +20,16 @@ This project uses a **Retrieval Augmented Generation (RAG)** framework to create
 
 ## Folder Structure  
 
-### `app/`  
+### [`app/`](https://github.com/bhargaviHQ/rag-llm-assistant-with-snowflake-cortex/tree/main/app)  
 - Contains Python code for the Streamlit app:  
   - **`rag_llm_assistant_with_history.py`**: Chat assistant with conversation history.  
   - **`rag_llm_assistant_basic.py`**: Basic chat assistant without conversation history.  
 
-### `sql/`  
+### [`sql/`](https://github.com/bhargaviHQ/rag-llm-assistant-with-snowflake-cortex/tree/main/sql) 
 - Contains SQL scripts for setting up e-commerce tables and queries:  
   - **`ecommerce_data_setup.sql`**: Queries for creating databases, schemas, temporary tables and Cortex Search Service.
 
-### `assets/`  
+### [`assets/`](https://github.com/bhargaviHQ/rag-llm-assistant-with-snowflake-cortex/tree/main/assets) 
 - Stores data and reference materials:  
   - **`documents/`**: Product instruction manuals, sales reports, and metrics documents in PDF format.  
   - **`screenshots/`** : This folder contains screenshots of the application, showcasing its UI, features, and a comparison of outcomes when using the provided documents data with the LLM versus without it.
