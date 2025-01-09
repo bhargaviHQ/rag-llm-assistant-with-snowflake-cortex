@@ -48,11 +48,11 @@ This project uses a **Retrieval Augmented Generation (RAG)** framework to create
 
 - **Conversation History:** The app includes a sliding window approach to manage past interactions and summarize conversations effectively.  
 - **Secure Sharing:** Streamlit in Snowflake ensures secure data handling and sharing within role-based access policies.  
-- **Deploying the App:** Find out more here - [**"Build a Retrieval Augmented Generation (RAG) based LLM assistant using Streamlit and Snowflake Cortex Search Quickstart Guide"**]().
+- **Deploying the App:** Find out more here - [**"Build a Retrieval Augmented Generation (RAG) based LLM assistant using Streamlit and Snowflake Cortex Search Quickstart Guide"**](https://quickstarts.snowflake.com/guide/ask_questions_to_your_own_documents_with_snowflake_cortex_search/index.html).
 -  The application categorizes documents using two tags: `instructions` and `metrics`. These tags help organize and retrieve the right type of content effectively during responses.
 - For the underlying language model (LLM), different models were tested to evaluate cost and performance. In this specific case, **Llama3-70B** was selected for its superior results (concise) and cost efficiency.
 ---
 
 ## Data Disclaimer  
 
-The data in user manuals and metrics documents are **AI-generated (ChatGPT)** and used for **demo purposes only**.   
+The data in instruction manuals and metrics documents are **AI-generated (ChatGPT)** and used for **demo purposes only**.   
