@@ -44,6 +44,10 @@ This project uses a **Retrieval Augmented Generation (RAG)** framework to create
 
 ---
 
+## Screenshots
+[View application screenshots](https://github.com/bhargaviHQ/rag-llm-assistant-with-snowflake-cortex/tree/main/assets/screenshots)
+
+---
 ## Additional Notes  
 
 - **Conversation History:** The app includes a sliding window approach to manage past interactions and summarize conversations effectively.  
