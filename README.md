@@ -47,7 +47,7 @@ This project uses a **Retrieval Augmented Generation (RAG)** framework to create
 ## Screenshots
 [View application screenshots](https://github.com/bhargaviHQ/rag-llm-assistant-with-snowflake-cortex/tree/main/assets/screenshots)
 
-<img src="https://github.com/bhargaviHQ/rag-llm-assistant-with-snowflake-cortex/blob/main/assets/screenshots/img_05.png" alt="chat bot" width="450"/>
+<img src="https://github.com/bhargaviHQ/rag-llm-assistant-with-snowflake-cortex/blob/main/assets/screenshots/img_05.png" alt="chat bot" width="600"/>
 
 ---
 ## Additional Notes  
